@@ -1,2 +1,0 @@
-Modifying the second file and commiting to master
-Modifying the second file and commiting to second branch
